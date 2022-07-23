@@ -1,0 +1,80 @@
+.navbar{
+    background-color: #240c64;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    margin: -8px;
+}
+
+.navbarbranding{
+    margin-left: 80px;
+}
+
+.navbarlinks > a{
+       color: #b1b4d6;
+       font-weight: 700;
+       font-size: 25px;
+       margin-right: 20px;
+       text-decoration: none;
+       border-left: 2px solid;
+       padding-left: 5px;
+}
+
+.navbarlinks{
+    display: flex;
+    margin-left: -280px;
+}
+.loginbutton{
+    margin-right: 15px;
+    font-size: 20px;
+    color:#b1b4d6 ;
+    font-weight: 500;
+    text-decoration: none;
+}
+.banner{
+    background-color: #240c64;
+    margin: -8px;
+    margin-top: -22px;
+    display:flex ;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+}
+
+.bannerinfo{
+    color: #ecbfb8;
+}
+
+.bannercontent{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.bannerimg{
+  margin-right: 120px;  
+}
+
+.banner2{
+    background-color: #fbcbbc;
+    display: flex;
+    margin-top: 9px;
+    margin: -8px;
+    align-items: center;
+}
+
+.banner2text{
+    font-size: 35px;
+    margin-left: 15px;
+    border: 5px dotted purple;
+    font-family: Recoleta;
+    color: #342069;
+}
+.banner3content{
+    display: flex;
+}
+.bannerquote{
+    display: flex;
+}
